@@ -38,7 +38,7 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/robert-jakubovszkij-6810b0274/?originalSubdomain=de" target="_blank">
+  <a href="[https://www.linkedin.com/in/robert-jakubovszkij-6810b0274/?originalSubdomain=de](https://avatars.githubusercontent.com/u/146357474?s=200&v=4)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>

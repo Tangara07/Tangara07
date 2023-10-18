@@ -24,6 +24,10 @@
 
 ###
 
+<img align="right" height="200" src="https://media.licdn.com/dms/image/D4E0BAQF2ym1519-5-g/company-logo_200_200/0/1682598354707?e=1705536000&v=beta&t=QT0bvkCn1N5wtKUby6WF8kPa7T_JGEBw0Go6JbNyJiM"  />
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Tangara07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tangara07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />

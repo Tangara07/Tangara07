@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hey everyone, am Robert Jakubovszkij,<br>Studying Software Development at "BSZ-Wiesau"</p>
+<p align="left">Hey everyone, i am Robert Jakubovszkij,<br>Studying Software Development at "BSZ-Wiesau"</p>
 
 ###
 
